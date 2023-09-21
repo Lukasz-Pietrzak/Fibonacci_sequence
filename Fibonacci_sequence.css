@@ -1,0 +1,35 @@
+body{
+    background-color: #2A292B;
+}
+
+
+h1{
+    color: goldenrod;
+}
+
+.ciagi{
+    color: white;
+}
+
+#button{
+    color: black;
+    font-weight: bold;
+}
+
+#Display{
+    color: white;
+}
+
+#wynik{
+    color: goldenrod;
+}
+
+#brak{
+    color: goldenrod;
+}
+
+
+#Testowo2{
+    color: white;
+    font-size: 50px;
+}
